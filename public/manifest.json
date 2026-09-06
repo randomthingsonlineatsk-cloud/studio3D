@@ -1,0 +1,15 @@
+{
+  "short_name": "Studio3D",
+  "name": "Studio3D — Free 3D Massing Tool",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a"
+}
