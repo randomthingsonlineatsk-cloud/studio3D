@@ -1,6 +1,6 @@
-MIT License
+MIT License (with Attribution Requirement)
 
-Copyright (c) 2026 Khan Shagufa
+Copyright (c) 2026 Khan Gulrez Shagufa Fazal Ahmed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +9,24 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+2. ATTRIBUTION REQUIREMENT: Any deployment, fork, or derivative work based on
+   this Software — whether modified or unmodified, and regardless of branding,
+   name, or purpose — must include a clearly visible credit to the original
+   developer in at least one of the following locations:
+   - The application's user interface (e.g., a footer, "About," or credits
+     section), and/or
+   - The project's README or public documentation.
+
+   The credit must read, at minimum: "Originally developed by Khan Gulrez
+   Shagufa Fazal Ahmed" and may include a link to the original repository
+   (https://github.com/randomthingsonlineatsk-cloud/studio3D) or live
+   demo (https://ssvan40uwz0mi3o0bvmdzg1n.macaly.app).
+
+   This requirement applies even if the derivative work is substantially
+   modified, rebranded, or extended with new features.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
