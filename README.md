@@ -54,4 +54,4 @@ MIT — see [LICENSE](LICENSE). Free to use, modify, and build on.
 
 ## Built by
 
-Shagufa Khan
+Khan Gulrez Shagufa Fazal Ahmed
