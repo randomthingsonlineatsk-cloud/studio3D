@@ -50,7 +50,11 @@ npm run preview  # preview the production build
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Free to use, modify, and build on.
+Licensed under the [Apache License 2.0](LICENSE). Copyright 2026 Khan Gulrez Shagufa Fazal Ahmed. Free to use, modify, and build on.
+
+If you reuse or adapt this project, please credit the original author and link back to https://github.com/randomthingsonlineatsk-cloud/studio3D. The Apache License 2.0 requires you to keep the `LICENSE` and `NOTICE` files with any copy you distribute.
+
+_Versions published before October 2026 were released under an MIT-based license._
 
 ## Built by
 
